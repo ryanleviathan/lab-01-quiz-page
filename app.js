@@ -1,4 +1,4 @@
-import { countsAsAYes } from '../counts-as-a-yes.js';
+import { countsAsAYes } from './counts-as-a-yes.js';
 
 const button = document.getElementById('quiz-button');
 const results = document.getElementById('results');
